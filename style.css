@@ -1,0 +1,30 @@
+body {
+	background-image: url("dumpling.jpg"); 
+		background-repeat: no-repeat;
+		background-attachment: initial;
+		background-origin: initial;
+		background-clip: initial;
+		background-position-x: center;
+		background-position-y:fixed;
+		background-size: cover;
+		backface-visibility: luminosity;
+		margin : 20px 40px 20px 600px;
+		}
+h1 {font-family: Cambria;
+	color: white;
+    text-align: center;
+    margin: 40px 100px 40px 100px;
+    text-transform: uppercase;}
+
+h2 {color: white;
+    text-align: center;
+    margin: 40px 60px 40px 60px;
+    text-transform: lowercase;}
+
+ li {color:white;
+    text-align: center;
+    margin:20px 60px 20px 60px;
+    text-transform: lowercase;
+	list-style-type: none}
+
+	
