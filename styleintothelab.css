@@ -1,0 +1,89 @@
+h1>b {color: brown;
+	font-family: Cambria;
+	font-size: 40px;
+	text-transform: uppercase;
+	text-align: right;
+	margin-left: 20px;
+margin-top: 0px;}
+
+
+body {
+	background-image: url("oliiii.jpg");
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+    	background-size: 100%;
+		backface-visibility: luminosity;
+    display: block;
+    margin: 8px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #8C8279;
+}
+
+i {float: left;}
+i{
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Cabin Sketch', cursive;
+    display: block;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+h1>b {color: #E26418;
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: right;
+    margin-left: 10px;
+    }
+
+ h4 {text-align: center;
+    padding-left: 10px;}
+
+.custom-checkbox {  width: 500px;
+  height: 450px;
+    padding: 20px;
+    border: 5px solid black;
+    margin: 0;
+    background-color: white; }
+
+ 
+
+div {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+
+.column {
+    float: left;
+    padding-left:30px;
+    width: 50%;
+    border-width:10px;
+    height: 300px; 
+}
+
+
+
+
+
+
+
+
+.row:after {
+    content: "";
+    display: table
+    clear: both;
+}
