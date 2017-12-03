@@ -1,0 +1,57 @@
+body {
+	background-image: url("oliiii.jpg");
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+    	background-size: 100%;
+		backface-visibility: luminosity;
+		}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {float: left;}
+
+li a {
+    display: block;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+i {float: right;
+color: white;
+padding: 14px 30px;
+text-decoration: none;
+}
+
+ h1>b {color: brown;
+	font-family: Cambria;
+	font-size: 40px;
+	text-transform: uppercase;
+	text-align: right;
+	margin-left: 20px;
+margin-top: 0px;}
+
+
+#myCarousel {
+	position: center;
+	padding-top: 150px;
+	padding-bottom: 150px;
+	text-align: center;
+	color: white;
+background-blend-mode:  }
+
+
+
+	h1>b>a {color: white;
+		background-blend-mode: 20%;
+		font-size: 70px;
+		font-weight: 300;}
+
