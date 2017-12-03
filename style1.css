@@ -1,5 +1,8 @@
 body {
 	background-image: url("brooke-lark-182428.jpg");
+		width: auto;
+		max-width: 100%;
+		height: auto;
 		background-repeat: no-repeat;
 		background-attachment: fixed;
     	background-size: 100%;
