@@ -72,4 +72,9 @@ text-decoration: none;
 		background-blend-mode: 20%;
 		font-size: 70px;
 		font-weight: 300;}
+@media only screen and (max max-width: 767px){
+	body {
+		background-image: url(brooke-lark-182428.jpg);
+	}
+}
 
