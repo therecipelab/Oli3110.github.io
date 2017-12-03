@@ -51,6 +51,9 @@ text-decoration: none;
 	text-align: center;
 	color: #1a0a00;
 	background: none;
+	width: auto;
+    max-width: 100%;
+    height: auto;
     }
 
  .carousel-control.left, .carousel-control.right{ 
