@@ -1,11 +1,12 @@
 
-h1>b {color: brown;
-	font-family: Cambria;
-	font-size: 40px;
-	text-transform: uppercase;
-	text-align: right;
-	margin-left: 20px;
-margin-top: 0px;}
+h1>b {color: #E26418;
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: right;
+    margin-left: 10px;
+    }
 
 
 h2 {padding-top: 40px;
@@ -19,11 +20,14 @@ ul {
     overflow: hidden;
     background-color: #333;
 }
+i {float: left;}
 
-i {
+i{
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Cabin Sketch', cursive;
     display: block;
     color: white;
-    font-size: 15px;
+    font-size: 20px;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
