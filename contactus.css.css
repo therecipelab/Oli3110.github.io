@@ -1,0 +1,56 @@
+h1>b {color: #E26418;
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: right;
+    margin-left: 10px;
+    }
+
+
+.Contactus {padding-top: 40px;
+padding-bottom: 40px;
+}
+
+.header {list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #8C8279;
+}
+i {float: left;}
+
+i{
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Cabin Sketch', cursive;
+    display: block;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+h4 {text-align: center;}
+
+ul {list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #8C8279;
+}
+
+
+.col-md-4 {padding-top: 30px;
+}
+
+.intro-text{text-align: center;
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 35px;
+}
+
+.contact-teaser{text-align: center;
+}
+
+
